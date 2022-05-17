@@ -10,9 +10,8 @@ I created this a couple of years ago when learning about Wii Homebrew. The code 
 
 2. Run `make`
 
-3. When the build is complete, run `./wiiload.py ./boot.dol` to load into onto your Wii without having to insert/eject an SD card.
+3. When the build is complete, run `./wiiload.py ./boot.dol` to load the contents onto your Wii without having to insert/eject an SD card.
 
 ## Demo
 
-https://user-images.githubusercontent.com/8378565/168856268-351dd2a0-5a0b-48b3-a73f-7b2202d0ee55.mp4
-
+<https://user-images.githubusercontent.com/8378565/168856268-351dd2a0-5a0b-48b3-a73f-7b2202d0ee55.mp4>
